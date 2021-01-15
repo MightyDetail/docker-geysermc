@@ -1,5 +1,5 @@
 # GeyserMC
-
+```
 version: "3.7"
 services:
   geyser:
@@ -10,3 +10,4 @@ services:
       - "19132:19132/udp"
     volumes:
       - /opt/geyser:/data
+```
